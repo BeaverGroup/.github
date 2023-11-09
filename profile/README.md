@@ -1,4 +1,25 @@
-## Hi there 👋
+<p align="center"><img src='https://github.com/BeaverGroup/.github/assets/92836354/5745ccc9-3fa4-4073-b2af-3c5edf410acd' width=250></p>
+
+
+
+## Audience Application
+Explore the Paris 2024 Olympic Games with our audience app! Subscribe to sports, stay updated on results, and make your predictions by casting your vote for the potential winners.
+
+## Application Plan
+This is our plan for the web application, but it's not the final version.
+<p align="center"><img width="694" alt="plan" src="https://github.com/BeaverGroup/.github/assets/92836354/b7c2351a-5092-48cc-a043-ffcc56cfa103"><p/>
+
+
+## Application Design
+
+This is a simple of our audience application
+
+<p align="center"><img width="694" alt="home" src="https://github.com/BeaverGroup/.github/assets/92836354/2ca3ee3d-70fd-440c-96ed-104ff33733fd"><p/>
+
+
+
+
+
 
 <!--
 
