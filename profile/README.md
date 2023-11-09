@@ -12,11 +12,13 @@ This is our plan for the web application, but it's not the final version.
 
 ## Application Design
 
-This is a simple of our audience application
+This is a sample of our audience application, complete with responsive design.
 
 <p align="center"><img width="694" alt="home" src="https://github.com/BeaverGroup/.github/assets/92836354/2ca3ee3d-70fd-440c-96ed-104ff33733fd"><p/>
 
+<p align="center"><img width="694" alt="subscribe" src="https://github.com/BeaverGroup/.github/assets/92836354/964ee46b-2c92-40a2-9199-28a923099c4c"><p/>
 
+<p align="center"><img width="694" alt="up-coming" src="https://github.com/BeaverGroup/.github/assets/92836354/e1935cd5-ca16-4d1e-80ab-0d7cf8e4a2d3"><p/>
 
 
 
